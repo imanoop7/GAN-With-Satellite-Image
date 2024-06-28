@@ -1,2 +1,2 @@
-# GAN With Satellite Image
+# GAN With  Satellite Image
  
